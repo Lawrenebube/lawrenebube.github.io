@@ -1,0 +1,83 @@
+html{
+    background-color: blue;
+    font-family: Sans-serif;
+}
+body{
+    background-color:whitesmoke;
+    Width :800px;
+    Height :400px;
+    margin: 80px 70px 80px 230px ;
+    padding: 40px;
+    border-radius: 40px;
+    
+    
+}
+.Hme{
+    text-align: left;
+    word-spacing: 30px;
+    font-size: 10px;
+}
+.eng{
+text-align: right;
+margin-top: -22px;
+margin-right: 45px;
+font-size: 10px;
+}
+.sin{
+    margin-left: 30px;
+}
+.reg{
+    border-radius: 8px;
+    border:solid 2px white ;
+    background-color: white;
+    color: blue;
+    font-size: 10px;
+    margin-left: 30px;
+}
+h2{
+text-align: left;
+padding-top: 90px;
+}
+p{
+text-align: left;
+font-size:10px;
+}
+ .inpt{
+     text-align: right;
+     height: 5px; 
+     margin-top: -110px;
+     margin-right: 45px;
+     font-size: 10px;
+         
+ } 
+ .pwd{
+     margin-top: 10px;
+     background-color: rgb(227, 240, 240);
+     width: 180px;
+     margin-bottom: 10px;
+     border: solid 2px aliceblue ;
+     border-radius: 5px;
+     height: 20px;
+ }  
+ .eml{
+     background-color: rgb(227, 240, 240);
+     width: 180px;
+     border: solid 2px aliceblue ;
+     border-radius: 5px;
+     height: 20px;
+ }
+ .rec{
+     font-size: 10px;
+     color: rgb(229, 226, 226);
+         
+ }
+ .subm{
+    width: 188px;
+    background-color: rgb(27, 97, 247);
+    color: aliceblue; 
+    margin-top: 20px; 
+    border-radius: 5px;
+    height: 25px;
+    border: solid 2px rgb(27, 97, 247) ;
+    margin-bottom: 10px;
+ }
